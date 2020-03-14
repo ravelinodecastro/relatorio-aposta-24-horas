@@ -1,5 +1,5 @@
 ## Como conseguir ver o relatório financeiro das minhas apostas?
-Primeiramente devo informar que este algoritmo foi criado a princípio para o site Aposta 24 Horas, para o código funcionar terá de ter o site aberto no computador (recomendado Google Chrome ou Mozzila Firefox), ter a sessão da sua conta iniciada e finalmente estar dentro da página do Painel de Controle, [Clica aqui para ir na página Painel de Controle] (https://apostas24horas.net/adm/bilhetes/).
+Primeiramente devo informar que este algoritmo foi criado a princípio para o site Aposta 24 Horas, para o código funcionar terá de ter o site aberto no computador (recomendado Google Chrome ou Mozzila Firefox), ter a sessão da sua conta iniciada e finalmente estar dentro da página do Painel de Controle, [Clica aqui para ir na página Painel de Controle](https://apostas24horas.net/adm/bilhetes/).
 
 E vamos para a resposta, para obter o relatório financeiro das suas apostas, terá de executar este algoritmo abaixo dentro do seu navegador com a página aberta na página do Painel de controle, para esse efeito, de um clique direito no meio da página, em seguida vai até inspecionar, logo após disso irá abrir uma coisa parecida:
 
