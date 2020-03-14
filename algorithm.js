@@ -42,4 +42,4 @@ function formatMoney(amount, decimalCount = 2, decimal = ",", thousands = ".") {
         console.log(e);
       }
     }
-wrapper.insertAdjacentHTML('beforeend', `<div>Investimento: ${formatMoney(total_invested)} Kz</div><div>Total ganho: ${formatMoney(total_won)} Kz</div><div>Total perdido: ${formatMoney(total_loose)} Kz</div><div>NOTA: este algoritimo foi por <a href="https://github.com7ravelinodecastro">Ravelino de Castro </a>, especialmente para o site Aposta 24 horas, e ela só mostra as estátisticas dos últimos 30 jogos apostados.`);
+wrapper.insertAdjacentHTML('beforeend', `<div>Investimento: ${formatMoney(total_invested)} Kz</div><div>Total ganho: ${formatMoney(total_won)} Kz</div><div>Total perdido: ${formatMoney(total_loose)} Kz</div><div>NOTA: este algoritimo foi por <a href="https://github.com7ravelinodecastro">Ravelino de Castro </a>, especialmente para o site Aposta 24 horas, e ela só mostra as estátisticas das últimos 30 apostas.`);
