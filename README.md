@@ -3,7 +3,7 @@ Primeiramente devo informar que este algoritmo foi criado a princípio para o si
 
 E vamos para a resposta, para obter o relatório financeiro das suas apostas, terá de executar este algoritmo abaixo dentro do seu navegador com a página aberta na página do Painel de controle, para esse efeito, de um clique direito no meio da página, em seguida vai até inspecionar, logo após disso irá abrir uma coisa parecida:
 
-![](instruções.png)
+![](Instruções.png)
 
 Copie o código e cola na ´área do console, conforme ilustrada na imagem e prima enter.
 
