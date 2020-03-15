@@ -62,9 +62,9 @@ Esse algorito foi criado utilizando a linguagem de programação Javascript e el
 ## Doação
 Se você acho útil este algoritmo e queiras agradecer, podes fazer a sua doação.
 
-Paypal: ravelinodecastro@gmail.com
+## Paypal: ravelinodecastro@gmail.com
 
-País: Angola
+## País: Angola
 
 Banco: Millenium Atlantico
 
@@ -75,7 +75,7 @@ Nº da conta: 1181275810001
 SWIFT: BAIPAPLU
 
 
-País: Portugal
+## País: Portugal
 
 Banco: Atlantico Europa
 
