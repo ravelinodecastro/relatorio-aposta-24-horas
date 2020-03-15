@@ -65,13 +65,22 @@ Se você acho útil este algoritmo e queiras agradecer, podes fazer a sua doaç�
 Paypal: ravelinodecastro@gmail.com
 
 País: Angola
+
 Banco: Millenium Atlantico
+
 IBAN: AO06 0040 0000 1812 7588 1016 5
+
 Nº da conta: 1181275810001
+
 SWIFT: BAIPAPLU
 
+
 País: Portugal
+
 Banco: Atlantico Europa
+
 IBAN: PT50 0189 0002 5934 7512 0017 5
+
 Nº da conta: 259347510001
+
 SWIFT: BAPAPTPL
