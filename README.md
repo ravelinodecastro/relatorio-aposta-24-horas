@@ -57,7 +57,7 @@ wrapper.insertAdjacentHTML('beforeend', `<div>Investimento: ${formatMoney(total_
 
 ---
 ## Nota
-Esse algorito foi criado utilizando a linguagem de programação Javascript e ela funcionou correctamente na versão do site Aposta 24 Horas testado no dia 14 de Março de 2020.
+Esse algoritmo foi criado utilizando a linguagem de programação Javascript e ela funcionou correctamente na versão do site Aposta 24 Horas testado no dia 14 de Março de 2020.
 
 ## Doação
 Se você acho útil este algoritmo e queiras agradecer, podes fazer a sua doação.
